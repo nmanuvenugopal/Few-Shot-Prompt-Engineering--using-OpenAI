@@ -1,4 +1,5 @@
-# Few-Shot-classification-using-OpenAI
+# Text classification-using-OpenAI Prompt Engineering Techniques
+## Prompt engineering is used to classify the text. I have used the OpenAI models for this purposes.
 
 Few thing to remember to while doing few shot classification using OpenAI services:
 1. We need the subscription from either OpenAI or Miscrosoft Azure (Since I have Microsoft Azure subscription I have used that).
